@@ -1,0 +1,12 @@
+﻿  WOF.cpp
+D:\Documents\GitHub\C++\Personal\WheelOfFortuneProject\WheelOfFortuneProject\WheelOfFortuneProject\WOF.cpp(35,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Documents\GitHub\C++\Personal\WheelOfFortuneProject\WheelOfFortuneProject\WheelOfFortuneProject\WOF.cpp(96,66): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  WheelOfFortuneProject.vcxproj -> D:\Documents\GitHub\C++\Personal\WheelOfFortuneProject\WheelOfFortuneProject\x64\Debug\WheelOfFortuneProject.exe
